@@ -1,2 +1,4 @@
+
 # quizApplication
-This is Python GUI based project on Quiz Application.
+This project is simple quiz application built using Python and Tkinter.
+
